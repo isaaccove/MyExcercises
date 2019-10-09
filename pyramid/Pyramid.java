@@ -23,6 +23,8 @@ public class Pyramid {
 				}
 			}
 			System.out.println();
+			
 		}
+		System.out.println("Thank you for using COVE BABA's app:");
 	}
 }
