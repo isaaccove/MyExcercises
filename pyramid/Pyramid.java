@@ -8,7 +8,7 @@ public class Pyramid {
 		Scanner input = new Scanner(System.in);
 		// Get user input = number of lines to print in a pyramid
 		System.out.println("Enter a number between 1 and 7: ");
-		int numLines = input.nextInt() + 0;
+		int numLines = input.nextInt() + 1;
 		for (int row = 1; row <= numLines; row++) {
 			int chk = row;
 			int chk2 = 2;
